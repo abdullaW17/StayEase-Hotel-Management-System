@@ -1,5 +1,3 @@
-Absolutely! Here’s a **fully rewritten README** that’s **GitHub-ready**, keeps all your headings, emojis, file trees, tables, and code blocks intact, and adds proper formatting for GitHub Flavored Markdown (GFM).
-
 ---
 
 # 🏨 StayEase – Hotel Management System
