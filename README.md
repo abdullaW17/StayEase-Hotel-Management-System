@@ -1,3 +1,4 @@
+
 ---
 
 # 🏨 StayEase – Hotel Management System
